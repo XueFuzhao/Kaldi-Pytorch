@@ -1,6 +1,7 @@
 
 ## This project aims to simplify using Kaldi and pytorch for rnn based speech recognition. 
 Following the general design of pytorch, our lib package can be extended easily to implement other new RNN models. Some models in this project are not complete. I'm still working on it.
+Note: This project bases on the project of GlenHGHUANG. It is a pytorch version of GlenHGHUANG's framework.
 
 ## Installation
 
